@@ -1,3 +1,6 @@
+# Demo
+Demo of this app is available [here](https://vorobev-exceedteam.github.io/dad-jokes)
+
 # How to run this project
 
 If you want to run this project locally, then type following in the terminal:
