@@ -1,0 +1,11 @@
+.App {
+  margin: 0;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+
+  @media(max-width: 960px) {
+    width: 100%;
+  }
+
+}
